@@ -1,26 +1,26 @@
 dotfiles
 ====
 
-#### Bash
+#### bash
 
 ```
 ~/.bashrc
 ~/.bashprofile
 ```
 
-#### Zsh
+#### zsh
 
 ```
 ~/.zshrc
 ```
 
-#### Apple Terminal
+#### Terminal.app
 
 ```
 ~/Library/Preferences/com.Apple.Terminal.plist
 ```
 
-### Vim
+#### vim
 
 ```
 ~/.vimrc
