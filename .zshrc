@@ -16,7 +16,6 @@ export PATH=/usr/local/sbin:$PATH
 
 # Aliases
 alias git=hub
-alias git_clone_mojilala='git clone -b develop git@gitlab.com:movielala-mobile/Stickers.git Mojilala'
 
 # added by travis gem
 [ -f /Users/Cem/.travis/travis.sh ] && source /Users/Cem/.travis/travis.sh
