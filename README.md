@@ -5,7 +5,7 @@ dotfiles
 
 ```
 ~/.bashrc
-~/.bashprofile
+~/.bash_profile
 ```
 
 #### zsh
